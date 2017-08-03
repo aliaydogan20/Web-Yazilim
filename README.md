@@ -1,7 +1,4 @@
 # Web-Yazilim
 
 
-HTML kodları bulunmaktadir.
-
-
-My site aliaydogan20.magix.net
+HTML,CSS kodları bulunmaktadir.
